@@ -3,7 +3,7 @@
 
 A cinematic, interactive portfolio for **K Dhanush Kudva**, a B.Tech CSE (Cyber Security) student at NMAM Institute of Technology, Nitte, focused on pentesting, threat hunting and SIEM monitoring.
 
-**Live site:** [https://portfolio-pink-psi-7airwcykad.vercel.app/]
+**Live site:** https://portfolio-pink-psi-7airwcykad.vercel.app/
 **LinkedIn:** [linkedin.com/in/kdhanushkudva](https://www.linkedin.com/in/kdhanushkudva/)
 **Status:** Open to cyber security internships
 
